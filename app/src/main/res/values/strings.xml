@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="title_activity_maps">Android Test</string>
+    <string name="title_activity_main">Android Test</string>
+    <string name="searchButton">Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
